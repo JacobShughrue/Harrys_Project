@@ -14,10 +14,10 @@ As the name suggests, this allows me to see which customers modified their subsc
 4. Once I finished visualizing the data, I wanted to complete the same data manipulation steps I had taken in Excel, in Python Pandas. This step eliminates the manual analysis I did in Excel. I did this step at the end because, with this being the first time I had seen or worked with the data, Excel allowed me to explore the data more easily. With the Python code I have written, this data files could be processed hundreds of times each day without issue, ultimately adding automation to the project pipeline. 
 
 ## File Glossary
-1. excercise_data - this is the source data provided (note the file has two tabs)
-2. data_excel_export - this shows the manual Excel analysis I completed including some advanced calculations like nested if statements, index/match statements, and unique/filter statements
-3. data_python_export - this is the Python file that replaces the steps done in Excel, or in other words is the automated version of my prior manual work
-4. This is a text file containing the link to my live, interactive Power BI dashboard
-5. This is a PowerPoint presentation summarizing my findings
+**1. excercise_data.xlsx** - this is the source data provided (note the file has two tabs)
+**2. data_excel_export** - this shows the manual Excel analysis I completed including some advanced calculations like nested if statements, index/match statements, and unique/filter statements
+**3. data_python_export** - this is the Python file that replaces the steps done in Excel, or in other words is the automated version of my prior manual work
+**4. PowerBI_Dashboard_Interactive** This is a text file containing the link to my live, interactive Power BI dashboard
+**5. Findings_Jacob_Shughrue.pptx** This is a PowerPoint presentation summarizing my findings
 
 With any questions, don't hesitate to reach out.
