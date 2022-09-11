@@ -20,7 +20,7 @@ With any questions, don't hesitate to reach out.
 
 
 
-### My Steps
+## My Steps
 **1.** Observe the data in Excel - I noticed a join could be made between the two tables on the key "viewable_product_id"]
 
 **2.** While in Excel, I joined the tables and created several new columns allowing me to ultimately generate a column called "customer_subscription_change_flag".
