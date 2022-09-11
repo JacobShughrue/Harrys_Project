@@ -4,6 +4,7 @@
 **This exercise provides two tables of data and poses the open-ended question of "what insights can you derive from this?"**
 
 
+
 ## File Glossary
 **1. excercise_data.xlsx** - this is the source data provided (note the file has two tabs)
 
@@ -16,6 +17,7 @@
 **5. Findings_Jacob_Shughrue.pptx** This is a PowerPoint presentation summarizing my findings
 
 With any questions, don't hesitate to reach out.
+
 
 
 ### My Steps
