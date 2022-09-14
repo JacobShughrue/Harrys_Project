@@ -10,7 +10,7 @@
 
 **2. data_excel_export** - this shows the manual Excel analysis I completed including some advanced calculations like nested if statements, index/match statements, and unique/filter statements
 
-**3. Harrys_v3.ipynb** - Note: this file can be viewed in your browser: This is the Python file that replaces the steps done in Excel, or in other words is the automated version of my prior manual work
+**3. Harrys_v3.ipynb** - Note: this file can be viewed in your browser: This is the Python file that replaces the steps done in Excel, or in other words is the automated version of my prior manual work. A ".py" file is also available to view the actual code that was run.
 
 **4. PowerBI_Dashboard_Interactive** This is a text file containing the link to my live, interactive Power BI dashboard
 
