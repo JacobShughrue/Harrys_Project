@@ -19,7 +19,7 @@
 
 
 ## My Steps
-**1.** Observe the data in Excel - I noticed a join could be made between the two tables on the key "viewable_product_id"]
+**1.** Observe the data in Excel - I noticed a join could be made between the two tables on the key "viewable_product_id"
 
 **2.** While in Excel, I joined the tables and created several new columns allowing me to ultimately generate a column called "customer_subscription_change_flag".
 As the name suggests, this allows me to see which customers modified their subscription of Harry's Razor products. The goal here was to compare customers who did not change their subscription to those who did modify what they received and analyze if subscription modification helped customer retention. 
