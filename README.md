@@ -14,8 +14,6 @@
 
 **4. PowerBI_Dashboard_Interactive** This is a text file containing the link to my live, interactive Power BI dashboard
 
-**5. Findings_Jacob_Shughrue.pptx** [This is a PowerPoint presentation summarizing my findings](https://docs.google.com/presentation/d/1L8aVWmDF_4w19iYOFrK988bqGLc0i6lX/edit?usp=sharing&ouid=102162804501747919451&rtpof=true&sd=true)
-
 
 
 ## My Steps
@@ -27,6 +25,8 @@ As the name suggests, this allows me to see which customers modified their subsc
 **3.** I was then able to export this Excel file to Power BI to generate visuals and capture insights. As I put together my dashboard the story I was trying to tell came to life - and in some cases, sent me back to Excel for further data manipulation. A live link to the Power BI dashboard is available.
 
 **4.** Once I finished visualizing the data, I wanted to complete the same data manipulation steps that I had taken in Excel, in Python Pandas. This step eliminates the manual analysis I did in Excel. I did this step at the end because, with this being the first time I had seen or worked with the data, Excel allowed me to explore the data more easily. With the Python code I have written, this data could be processed hundreds of times each day without issue, ultimately adding automation to the project pipeline. 
+
+**5.** Lastly, I summarized my findings into a PowerPoint presentation that could be delivered to stakeholders. [Link available here](This is a PowerPoint presentation summarizing my findings](https://docs.google.com/presentation/d/1L8aVWmDF_4w19iYOFrK988bqGLc0i6lX/edit?usp=sharing&ouid=102162804501747919451&rtpof=true&sd=true)
 
 **With any questions, don't hesitate to reach out.**
 
