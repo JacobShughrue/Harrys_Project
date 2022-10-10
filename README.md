@@ -14,7 +14,7 @@
 
 **4. PowerBI_Dashboard_Interactive** This is a text file containing the link to my live, interactive Power BI dashboard
 
-**5. Findings_Jacob_Shughrue.pptx** This is a PowerPoint presentation summarizing my findings
+**5. Findings_Jacob_Shughrue.pptx** [This is a PowerPoint presentation summarizing my findings](https://docs.google.com/presentation/d/1L8aVWmDF_4w19iYOFrK988bqGLc0i6lX/edit?usp=sharing&ouid=102162804501747919451&rtpof=true&sd=true)
 
 
 
