@@ -1,9 +1,7 @@
 ## Harrys_Project - ReadMe
 
 ### Objective:
-**This exercise provides two tables of data and poses the open-ended question of "what insights can you derive from this?"**
-
-
+**Analyze the provided [Harry's](https://www.harrys.com/en/us) sales data set and generate insights via whichever technologies you prefer**
 
 ## File Glossary
 **1. excercise_data.xlsx** - this is the source data provided (note the file has two tabs)
