@@ -10,7 +10,7 @@
 
 **3. Harrys.ipynb** - Note: this file can be viewed in your browser: This is the Python file that replaces the steps done in Excel, or in other words is the automated version of my prior manual work. A ".py" file is also available to view the actual code that was run.
 
-**3. Project_Findings.ppt** - [Here is a live link](https://docs.google.com/presentation/d/1L8aVWmDF_4w19iYOFrK988bqGLc0i6lX/edit?usp=sharing&ouid=102162804501747919451&rtpof=true&sd=true) to the PowerPoint with finding summarized for stakeholders
+**3. Project_Findings.ppt** - [Here is a live link](https://docs.google.com/presentation/d/1L8aVWmDF_4w19iYOFrK988bqGLc0i6lX/edit?usp=sharing&ouid=102162804501747919451&rtpof=true&sd=true) to the PowerPoint I prepared with findings summarized for stakeholders.
 
 ### My Steps
 **1.** Observe the data in Excel - I noticed a join could be made between the two tables on the key "viewable_product_id".
