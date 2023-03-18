@@ -25,5 +25,3 @@ As the name suggests, this allows me to see which customers modified their subsc
 **5.** Lastly, I summarized my findings into a PowerPoint presentation that could be delivered to stakeholders.  [Link available here.](https://docs.google.com/presentation/d/1L8aVWmDF_4w19iYOFrK988bqGLc0i6lX/edit?usp=sharing&ouid=102162804501747919451&rtpof=true&sd=true)
 
 **With any questions, don't hesitate to reach out.**
-
- [Link back to JacobShughrue.com](jacobshughrue.com)
